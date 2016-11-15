@@ -1,10 +1,27 @@
-h1 {
-	color: navy;
-	text-align: center;
-	}
+#intro_section
+	
+	{background-color: lightblue;
+		color: navy;
+		text-align: center;}
 
-h2 {
-	color: navy;
-	text-align: center;
-	}
 
+
+#Havana
+
+	{background-color: navy}
+
+#Havana h1{text-align: center;
+			color: white;}
+
+#Vinales
+	
+	{background-color: lightblue}
+
+#Vinales h1{text-align: center}
+
+#Trinidad
+
+	{background-color: navy}
+
+#Trinidad h1{text-align: center;
+			color: white;}

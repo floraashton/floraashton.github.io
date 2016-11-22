@@ -1,3 +1,18 @@
+pre {
+     margin: 0; 
+     font-size: inherit; 
+     line-height: inherit; 
+     color: inherit; 
+     word-break: inherit; 
+     word-wrap: inherit; 
+     background-color: inherit; 
+     border: inherit; 
+     border-radius: inherit; 
+	}
+
+p{display:none;}
+h2{display:none;}
+
 #intro_section
 	
 	{background-color: lightblue;
@@ -17,7 +32,8 @@
 	
 	{background-color: lightblue}
 
-#Vinales h1{text-align: center}
+#Vinales h1{text-align: center;
+			color: navy;}
 
 #Trinidad
 
@@ -25,3 +41,4 @@
 
 #Trinidad h1{text-align: center;
 			color: white;}
+

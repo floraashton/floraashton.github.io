@@ -10,7 +10,7 @@ pre {
      border-radius: inherit; 
 	}
 
-p{display:none;}
+
 
 
 img{display: block;
@@ -21,8 +21,8 @@ img{display: block;
 #intro_section
 	
 	{background-color: lightblue;
-		color: navy;
-		text-align: center;}
+	color: navy;
+	text-align: center;}
 
 
 
@@ -31,19 +31,19 @@ img{display: block;
 	{background-color: navy}
 
 #Havana h1{text-align: center;
-			color: white;}
+	color: white;}
 
 #Vinales
 	
 	{background-color: lightblue}
 
 #Vinales h1{text-align: center;
-			color: navy;}
+	color: navy;}
 
 #Trinidad
 
 	{background-color: navy}
 
 #Trinidad h1{text-align: center;
-			color: white;}
+	color: white;}
 

@@ -11,7 +11,11 @@ pre {
 	}
 
 p{display:none;}
-h2{display:none;}
+
+img{display: block;
+	margin-left: auto;
+	margin-right: auto;}
+
 
 #intro_section
 	

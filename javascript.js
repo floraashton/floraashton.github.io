@@ -1,6 +1,8 @@
 $(document).ready(function(){
 
 
-$('#havana h1').click(function() {$('#havana h2').fadeIn()});
+$('h1').click(function() {$('h2').fadeIn()});
 
-});
+$('h2').click(function() {$('p').fadeIn()});
+
+})

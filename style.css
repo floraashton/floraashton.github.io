@@ -11,39 +11,60 @@ pre {
 	}
 
 
+/*Intro_section*/
 
+#intro_section{background-color: lightblue;
+	color: navy;
+	text-align: center;}
+
+
+/*Image*/
 
 img{display: block;
 	margin-left: auto;
 	margin-right: auto;}
 
 
-#intro_section
-	
-	{background-color: lightblue;
-	color: navy;
+/*General body layout*/
+
+h2{display:none;
 	text-align: center;}
 
+p{display: none;
+	text-align: center}
 
 
-#Havana
+/*Havana*/
 
-	{background-color: navy}
+#Havana{background-color: navy}
 
 #Havana h1{text-align: center;
 	color: white;}
 
-#Vinales
-	
-	{background-color: lightblue}
+#Havana h2{color: white;}
+
+#Havana p{color: white;}
+
+
+/*Vinales*/
+
+#Vinales{background-color: lightblue}
 
 #Vinales h1{text-align: center;
 	color: navy;}
 
-#Trinidad
+#Vinales h2{color: navy;}
 
-	{background-color: navy}
+#Vinales p{color: navy;}
+
+
+/*Trinidad*/
+
+#Trinidad{background-color: navy}
 
 #Trinidad h1{text-align: center;
 	color: white;}
 
+#Trinidad h2{color: white;}
+
+#Trinidad p{color: white;}

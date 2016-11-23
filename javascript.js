@@ -7,11 +7,11 @@ $('#Havana h1').click(function() {$('#Havana p').fadeIn()});
 
 $('#Havana h1').click(function() {$('h3').fadeIn()});
 
-$('h3').click(function() {$('#Havana p').hide()});
+$('h3').click(function() {$('#Havana p').fadeOut()});
 
-$('h3').click(function() {$('#Havana h2').hide()});
+$('h3').click(function() {$('#Havana h2').fadeOut()});
 
-$('h3').click(function() {$('h3').hide()});
+$('h3').click(function() {$('h3').fadeOut()});
 
 
 $('#Vinales h1').click(function() {$('#Vinales h2').fadeIn()});

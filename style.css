@@ -27,8 +27,7 @@ img{display: block;
 
 /*General body layout*/
 
-h2{display:none;
-	text-align: center;}
+h2{text-align: center;}
 
 p{display: none;
 	text-align: center}
@@ -41,7 +40,8 @@ p{display: none;
 #Havana h1{text-align: center;
 	color: white;}
 
-#Havana h2{color: white;}
+#Havana h2{display: none;
+	color: white;}
 
 #Havana p{color: white;}
 
@@ -53,7 +53,8 @@ p{display: none;
 #Vinales h1{text-align: center;
 	color: navy;}
 
-#Vinales h2{color: navy;}
+#Vinales h2{display: none;
+	color: navy;}
 
 #Vinales p{color: navy;}
 
@@ -65,6 +66,7 @@ p{display: none;
 #Trinidad h1{text-align: center;
 	color: white;}
 
-#Trinidad h2{color: white;}
+#Trinidad h2{display: none;
+	color: white;}
 
 #Trinidad p{color: white;}

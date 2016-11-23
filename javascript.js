@@ -1,8 +1,8 @@
 $(document).ready(function(){
 
 
-$('h1').click(function() {$('h2').fadeIn()});
+$('#Havana h1').click(function() {$('#Havana h2').fadeIn()});
 
-$('h2').click(function() {$('p').fadeIn()});
+$('#Havana h2').click(function() {$('#Havana p').fadeIn()});
 
 })

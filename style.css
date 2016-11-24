@@ -63,6 +63,11 @@ h3{display: none;
 
 #Vinales p{color: navy;}
 
+h4{display: none;
+	text-align: center;
+	color: navy;
+	}
+
 
 /*Trinidad*/
 
@@ -75,3 +80,10 @@ h3{display: none;
 	color: white;}
 
 #Trinidad p{color: white;}
+
+h5{display: none;
+	text-align: center;
+	color: white;
+	}
+
+

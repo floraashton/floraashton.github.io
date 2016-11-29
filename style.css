@@ -30,9 +30,14 @@ img{display: block;
 h2{text-align: center;}
 
 p{display: none;
-	text-align: center}
+	text-align: center
+	font: "courier new";
+	margin-left: 20px;
+	margin-right: 20px}
 
 h1{font-family: "courier new";}
+h2{font-family: "courier new";}
+p{font-family: "verdana";} 
 h3{font-family: "courier new";}
 
 /*Havana*/

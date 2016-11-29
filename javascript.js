@@ -34,8 +34,8 @@ $('#Vinales h3').click(function() {$('#Vinales h2').fadeOut()});
 $('#Vinales h3').click(function() {$('#Vinales h3').fadeOut()});
 
 
-//Trinidad//
 
+//Trinidad//
 
 $('#Trinidad h1').click(function() {$('#Trinidad h2').fadeIn()});
 
@@ -49,6 +49,7 @@ $('#Trinidad h3').click(function() {$('#Trinidad p').fadeOut()});
 $('#Trinidad h3').click(function() {$('#Trinidad h2').fadeOut()});
 
 $('#Trinidad h3').click(function() {$('#Trinidad h3').fadeOut()});
+
 
 
 })

@@ -19,7 +19,7 @@
 	<div id="intro_section">
 	<div class="container">
 
-		<h1 class="title"><pre> C U B A    C A L L I N G  </pre></h1>
+		<h1 class="title"><pre><b> C U B A    C A L L I N G  </b></pre></h1>
 
 		<h2>Welcome to your trusty whirlwind tour of Cuba's must-see stops!</h2>
 
@@ -28,9 +28,14 @@
 
 	<div class="container">
 	<div id="map_section">
-	
 
-		<img src="map.jpg" align="center">
+		<img src="map.jpg" align="center" width="700" height="290" usemap="Map" alt="map"> 
+		<map name="Map">
+		<area shape="circle" coords="175,43,15" alt="Havana" href="#Havana">
+		<area shape="circle" coords="90,82,15" alt="Vinales" href="#Vinales">
+		<area shape="circle" coords="325,135,15" alt="Trinidad" href="#Trinidad">
+
+		</map>
 
 	</div>
 	</div>
@@ -67,7 +72,7 @@
 
 				<div class="row">
 
-					<h3>see less</h3>
+					<h3><i>see less</i></h3>
 
 				</div>
 		</div>
@@ -102,7 +107,7 @@
 
 				<div class="row">
 
-					<h3>see less</h3>
+					<h3><i>see less</i></h3>
 
 				</div>
 		</div>
@@ -133,11 +138,30 @@
 
 				<div class="row">
 
-					<h3>see less</h3>
+					<h3><i>see less</i></h3>
 
 				</div>
 		</div>
 
+		<div id="form">
+	
+		
+			<h4>Questions?</h4>
+		
+			<form action="contact" method="get" id="emailform">
+  				Name: <input type="text" name="name"><br>
+  				Email address: <input type="text" name="email"><br>
+  				Question: <input type="text" name="question"><br>
+			</form>
+
+			<div class="wrapper">
+   
+				<button type="submit" form="emailform" value="Submit">Vamos!</button>
+		
+			</div>
+
+		
+		</div>
 
 	</div>
 

@@ -82,11 +82,7 @@ h4{font-family: "verdana";
 
 #Vinales p{color: navy;}
 
-<<<<<<< HEAD
-h4{display: none;
-=======
 #Vinales h3{display: none;
->>>>>>> origin/master
 	text-align: center;
 	color: navy;
 	}
@@ -104,19 +100,10 @@ h4{display: none;
 
 #Trinidad p{color: white;}
 
-<<<<<<< HEAD
-h5{display: none;
-	text-align: center;
-	color: white;
-	}
-
-
-=======
 #Trinidad h3{display: none;
 	text-align: center;
 	color: white;
 	}
-<<<<<<< HEAD
 
 
 /*Form*/ 
@@ -133,6 +120,3 @@ form{text-align: center;}
 
 
 
-=======
->>>>>>> origin/master
->>>>>>> origin/master

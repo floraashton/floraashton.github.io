@@ -71,4 +71,5 @@ $('#Trinidad h3').click(function() {$('#Trinidad h2').fadeOut()});
 $('#Trinidad h3').click(function() {$('#Trinidad h3').fadeOut()});
 >>>>>>> origin/master
 
+
 })
